@@ -11,7 +11,7 @@ Al utilizar el bot, confirmas que **NO**:
 
 - Romperás las [Guidelines](https://discord.com/guidelines) ni los [ToS](https://discord.com/terms) de Discord.
 - Compartirás información confidencial, personal o sensible sobre cualquier persona o situación.
-- Enviarás contenido ilegal, ofensivo, discriminatorio o que incite al odio.
+- Enviarás contenido NSFW, ilegal, ofensivo, discriminatorio o que incite al odio.
 - Realizarás spam, flood o abuso del sistema.
 - Compartirás malware, enlaces maliciosos o contenido engañoso.
 - Intentarás explotar fallos del sistema.
