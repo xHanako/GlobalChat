@@ -10,6 +10,7 @@ El Bot permite la comunicación entre distintos servidores de Discord mediante u
 Al utilizar el bot, confirmas que **NO**:
 
 - Romperás las [Guidelines](https://discord.com/guidelines) ni los [ToS](https://discord.com/terms) de Discord.
+- Irrespetarás a los demás usuarios.
 - Compartirás información confidencial, personal o sensible sobre cualquier persona o situación.
 - Enviarás contenido NSFW, ilegal, ofensivo, discriminatorio o que incite al odio.
 - Realizarás spam, flood o abuso del sistema.
